@@ -1,2 +1,2 @@
-# landing_page
-A display of some basic CSS skills to create a landing page. 
+# Landing Page
+A display of some basic HTML and CSS skills to create a landing page. 

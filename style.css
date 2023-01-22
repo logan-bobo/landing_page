@@ -1,0 +1,91 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header, .section01, .footer {
+    background-color: #1F2937;
+}
+
+.header > p {
+    color: #E5E7EB;
+    size: 18px;
+    margin: 0px;
+}
+
+.header > h1 {
+    color: #F9FAF8;
+    size: 24px;
+    margin: 0px;
+}
+
+.section01 > h1 {
+    font-weight: 800;
+    color: #F9FAF8;
+    size: 48px;
+    margin: 0px;
+}
+
+.section01 > p, .header > a {
+    size: 18px;
+    color: #F9FAF8;
+}
+
+.section01 > button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 12px;
+    border: none;
+}
+
+.section02 > h2 {
+    color: #1F2937;
+    font-weight: 800;
+    size: 36px;
+    margin: 0px;
+}
+
+.product-text {
+    color: #1F2937;
+}
+
+.section03 {
+    background-color: #E5E7EB;
+}
+
+#quote {
+    color: #1F2937;
+    size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    margin: 0px;
+}
+
+#quote-author {
+    font-weight: 800;
+    size: 26px;
+    margin: 0px;
+}
+
+.section04 {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.call-to-action > h3 {
+    margin: 0px;
+}
+
+.call-to-action-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 12px;
+}
+
+.footer {
+    color: #F9FAF8;
+    text-align: center;
+    padding: 10px;
+}
